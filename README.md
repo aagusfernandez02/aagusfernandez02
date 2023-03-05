@@ -1,6 +1,6 @@
 - Agustín Fernandez
 - Desarrollador full stack MERN junior
-- Estudiante Tecnicatura Universitaria en Programación (UTN)
+- Tecnico Universitario en Programación (UTN)
 - Contacto: 
       Telefono: (+54)11 3084-0455 |
       Mail: aagusfernandez02@gmail.com
