@@ -1,14 +1,41 @@
-- Agustín Fernandez
-- Desarrollador full stack
-- Tecnico Universitario en Programación (UTN)
-- Contacto: 
-      Telefono: (+54)11 3084-0455 |
-      Mail: af.agusfernandez02@gmail.com
-- Últimos proyectos hosteados:
-      * https://mecanizadosldl-950d9.web.app/
-      * https://todolist-99f59.web.app/
+# 👋 ¡Hola! Soy **Agustín Fernandez**
+
+### 💻 Desarrollador Full Stack | Técnico Universitario en Programación (UTN)
+
+---
+
+## 🚀 Sobre mí
+Soy un desarrollador full stack apasionado por crear soluciones elegantes, rápidas y útiles. Me gusta aprender tecnologías nuevas, mejorar procesos y trabajar en proyectos que realmente aporten valor.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+- **Frontend:** Vue.js, Vite, JavaScript, TypeScript, HTML, CSS, Tailwind, Vuetify
+- **Backend:** Python, Flask, Node.js, Express, PHP
+- **Bases de datos:** MySQL, PostgreSQL, SQLite
+- **DevOps:** Docker, Nginx
+- **Otros:** WebSockets, Git, Linux
+
+---
+
+## 📞 Contacto
+- **Teléfono:** (+54) 11 3084-0455  
+- **Email:** af.agusfernandez02@gmail.com
+
+---
+
+## 🌐 Últimos proyectos hosteados
+🔧 *Aplicación de servicios mecánicos:*  
+<https://mecanizadosldl-950d9.web.app/>
+
+📝 *To-do list minimalista:*  
+<https://todolist-99f59.web.app/>
+
+---
+
+## ✨ Sobre este perfil
+Siempre estoy trabajando en algo nuevo. ¡Pasá a ver mis repos y dejá una estrella si te gusta algo! ⭐
 
 <!---
-aagusfernandez02/aagusfernandez02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+aagusfernandez02/aagusfernandez02 es un repositorio especial porque su README.md aparece en tu perfil de GitHub.
 --->
