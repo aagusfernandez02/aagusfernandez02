@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy **Agustín Fernandez**
 
-### 💻 Desarrollador Full Stack | Técnico Universitario en Programación (UTN)
+### 💻 Software Engineer | Técnico Universitario en Programación (UTN)
 
 ---
 
 ## 🚀 Sobre mí
-Soy un desarrollador full stack apasionado por crear soluciones elegantes, rápidas y útiles. Me gusta aprender tecnologías nuevas, mejorar procesos y trabajar en proyectos que realmente aporten valor.
+Soy un Software Engineer apasionado por crear soluciones elegantes, rápidas y útiles. Me gusta aprender tecnologías nuevas, mejorar procesos y trabajar en proyectos que realmente aporten valor.
 
 ---
 
